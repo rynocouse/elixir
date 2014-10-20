@@ -220,3 +220,4 @@ You'll find a number of Elixir extensions at [npmjs.org](https://www.npmjs.org/s
 
 - [Stylus](https://www.npmjs.org/package/laravel-elixir-stylus)
 - [Codeception](https://www.npmjs.org/package/laravel-elixir-codeception)
+- [Compass](https://www.npmjs.org/package/laravel-elixir-compass)
